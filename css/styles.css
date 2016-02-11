@@ -1,0 +1,13 @@
+header {
+  background: #F1C40F;
+  padding: 2em;
+}
+header h1 {
+    text-align: center;
+    color: #ffffff;
+    margin: 0
+    padding: 0;
+}
+img {
+  max-width: 100%;
+}
